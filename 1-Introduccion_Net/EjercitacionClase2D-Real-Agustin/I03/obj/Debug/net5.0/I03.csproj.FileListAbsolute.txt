@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\bin\Debug\net5.0\I03.exe
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\bin\Debug\net5.0\I03.deps.json
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\bin\Debug\net5.0\I03.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\bin\Debug\net5.0\I03.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\bin\Debug\net5.0\I03.dll
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\bin\Debug\net5.0\ref\I03.dll
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\bin\Debug\net5.0\I03.pdb
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\I03.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\I03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\I03.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\I03.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\I03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\I03.dll
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\ref\I03.dll
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\I03.pdb
+C:\Users\Usuario\Desktop\Programacion_II _y_Laboratorio_II\EjercitacionClase2D-Real-Agustin\1-Introduccion_Net\EjercitacionClase2D-Real-Agustin\I03\obj\Debug\net5.0\I03.genruntimeconfig.cache
