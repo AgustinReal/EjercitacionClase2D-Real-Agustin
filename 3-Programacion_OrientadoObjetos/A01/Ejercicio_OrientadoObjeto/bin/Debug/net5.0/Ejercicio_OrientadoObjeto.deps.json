@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio_OrientadoObjeto/1.0.0": {
+        "dependencies": {
+          "Camion": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_OrientadoObjeto.dll": {}
+        }
+      },
+      "Camion/1.0.0": {
+        "runtime": {
+          "Camion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_OrientadoObjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Camion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

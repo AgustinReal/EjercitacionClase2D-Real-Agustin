@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\obj\Debug\net5.0\CalcularFecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\obj\Debug\net5.0\CalcularFecha.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\obj\Debug\net5.0\CalcularFecha.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\obj\Debug\net5.0\CalcularFecha.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\bin\Debug\net5.0\CalcularFecha.deps.json
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\bin\Debug\net5.0\CalcularFecha.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\bin\Debug\net5.0\ref\CalcularFecha.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\bin\Debug\net5.0\CalcularFecha.pdb
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\obj\Debug\net5.0\CalcularFecha.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\obj\Debug\net5.0\ref\CalcularFecha.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\2-Clases_MetodosEstaticos\I08\CalcularFecha\obj\Debug\net5.0\CalcularFecha.pdb

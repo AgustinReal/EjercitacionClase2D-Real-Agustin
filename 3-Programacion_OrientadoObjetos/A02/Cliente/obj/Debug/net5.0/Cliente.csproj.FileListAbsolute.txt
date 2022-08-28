@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\bin\Debug\net5.0\Cliente.deps.json
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\bin\Debug\net5.0\Cliente.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\bin\Debug\net5.0\ref\Cliente.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\bin\Debug\net5.0\Cliente.pdb
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\obj\Debug\net5.0\Cliente.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\obj\Debug\net5.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\obj\Debug\net5.0\Cliente.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\obj\Debug\net5.0\Cliente.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\obj\Debug\net5.0\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\obj\Debug\net5.0\Cliente.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\obj\Debug\net5.0\ref\Cliente.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A02\Cliente\obj\Debug\net5.0\Cliente.pdb

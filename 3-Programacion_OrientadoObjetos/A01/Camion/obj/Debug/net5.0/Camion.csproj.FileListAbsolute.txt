@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\bin\Debug\net5.0\Camion.deps.json
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\bin\Debug\net5.0\Camion.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\bin\Debug\net5.0\ref\Camion.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\bin\Debug\net5.0\Camion.pdb
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\obj\Debug\net5.0\Camion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\obj\Debug\net5.0\Camion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\obj\Debug\net5.0\Camion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\obj\Debug\net5.0\Camion.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\obj\Debug\net5.0\Camion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\obj\Debug\net5.0\Camion.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\obj\Debug\net5.0\ref\Camion.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\3-Programacion_OrientadoObjetos\A01\Camion\obj\Debug\net5.0\Camion.pdb

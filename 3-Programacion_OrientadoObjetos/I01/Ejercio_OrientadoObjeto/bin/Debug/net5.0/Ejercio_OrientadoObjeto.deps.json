@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercio_OrientadoObjeto/1.0.0": {
+        "dependencies": {
+          "ClassLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "Ejercio_OrientadoObjeto.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0": {
+        "runtime": {
+          "ClassLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercio_OrientadoObjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

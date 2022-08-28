@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_OrientadoObjeto", "Ejercicio_OrientadoObjeto\Ejercicio_OrientadoObjeto.csproj", "{6921BF0C-C082-4DE2-B437-7A2ECB91A018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boligrafo", "Boligrafo\Boligrafo.csproj", "{93FE7B52-DE88-4644-975F-4CF3D2838B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6921BF0C-C082-4DE2-B437-7A2ECB91A018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6921BF0C-C082-4DE2-B437-7A2ECB91A018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6921BF0C-C082-4DE2-B437-7A2ECB91A018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6921BF0C-C082-4DE2-B437-7A2ECB91A018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FE7B52-DE88-4644-975F-4CF3D2838B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FE7B52-DE88-4644-975F-4CF3D2838B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FE7B52-DE88-4644-975F-4CF3D2838B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FE7B52-DE88-4644-975F-4CF3D2838B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8A064C8-6BF2-4949-8D0C-B1A1A75E00D8}
+	EndGlobalSection
+EndGlobal

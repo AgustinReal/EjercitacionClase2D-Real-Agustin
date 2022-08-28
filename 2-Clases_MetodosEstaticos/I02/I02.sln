@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Estaticos", "Ejercicio_Estaticos\Ejercicio_Estaticos.csproj", "{E2940061-8C2F-4DFA-9D1A-3F9D700D113D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validacion", "Validacion\Validacion.csproj", "{F56E3B40-D088-40BB-BE6C-D6DFDFE93503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2940061-8C2F-4DFA-9D1A-3F9D700D113D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2940061-8C2F-4DFA-9D1A-3F9D700D113D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2940061-8C2F-4DFA-9D1A-3F9D700D113D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2940061-8C2F-4DFA-9D1A-3F9D700D113D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56E3B40-D088-40BB-BE6C-D6DFDFE93503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56E3B40-D088-40BB-BE6C-D6DFDFE93503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56E3B40-D088-40BB-BE6C-D6DFDFE93503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56E3B40-D088-40BB-BE6C-D6DFDFE93503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D91F4AC1-3920-4B33-8771-3423E27C4307}
+	EndGlobalSection
+EndGlobal

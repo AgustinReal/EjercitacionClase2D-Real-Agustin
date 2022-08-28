@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio_Estaticos/1.0.0": {
+        "dependencies": {
+          "Formula": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_Estaticos.dll": {}
+        }
+      },
+      "Formula/1.0.0": {
+        "runtime": {
+          "Formula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_Estaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Formula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
