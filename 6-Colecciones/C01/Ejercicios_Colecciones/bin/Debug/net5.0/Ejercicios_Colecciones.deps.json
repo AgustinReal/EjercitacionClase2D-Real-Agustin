@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicios_Colecciones/1.0.0": {
+        "dependencies": {
+          "Futbol": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicios_Colecciones.dll": {}
+        }
+      },
+      "Futbol/1.0.0": {
+        "runtime": {
+          "Futbol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios_Colecciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Futbol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

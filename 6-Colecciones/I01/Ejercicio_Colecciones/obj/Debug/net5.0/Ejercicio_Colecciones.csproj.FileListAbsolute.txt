@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\bin\Debug\net5.0\Ejercicio_Colecciones.exe
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\bin\Debug\net5.0\Ejercicio_Colecciones.deps.json
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\bin\Debug\net5.0\Ejercicio_Colecciones.runtimeconfig.json
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\bin\Debug\net5.0\Ejercicio_Colecciones.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\bin\Debug\net5.0\Ejercicio_Colecciones.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\bin\Debug\net5.0\ref\Ejercicio_Colecciones.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\bin\Debug\net5.0\Ejercicio_Colecciones.pdb
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\Ejercicio_Colecciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\Ejercicio_Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\Ejercicio_Colecciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\Ejercicio_Colecciones.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\Ejercicio_Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\Ejercicio_Colecciones.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\ref\Ejercicio_Colecciones.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\Ejercicio_Colecciones.pdb
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\I01\Ejercicio_Colecciones\obj\Debug\net5.0\Ejercicio_Colecciones.genruntimeconfig.cache

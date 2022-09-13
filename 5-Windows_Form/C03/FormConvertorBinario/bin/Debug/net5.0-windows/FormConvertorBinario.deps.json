@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormConvertorBinario/1.0.0": {
+        "dependencies": {
+          "Conversor": "1.0.0"
+        },
+        "runtime": {
+          "FormConvertorBinario.dll": {}
+        }
+      },
+      "Conversor/1.0.0": {
+        "runtime": {
+          "Conversor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormConvertorBinario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Conversor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

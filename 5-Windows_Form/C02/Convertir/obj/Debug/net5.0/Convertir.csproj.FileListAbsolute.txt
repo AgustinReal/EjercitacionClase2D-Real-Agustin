@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\obj\Debug\net5.0\Convertir.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\obj\Debug\net5.0\Convertir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\obj\Debug\net5.0\Convertir.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\obj\Debug\net5.0\Convertir.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\obj\Debug\net5.0\Convertir.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\bin\Debug\net5.0\Convertir.deps.json
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\bin\Debug\net5.0\Convertir.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\bin\Debug\net5.0\ref\Convertir.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\bin\Debug\net5.0\Convertir.pdb
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\obj\Debug\net5.0\Convertir.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\obj\Debug\net5.0\ref\Convertir.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\5-Windows_Form\C02\Convertir\obj\Debug\net5.0\Convertir.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Sobrecarga", "Ejercicio_Sobrecarga\Ejercicio_Sobrecarga.csproj", "{AA4EA31E-E6B5-42E8-9B1C-F8CAFBB89D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertir", "Convertir\Convertir.csproj", "{D603C053-68DE-4B25-A551-600E2EEDC982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA4EA31E-E6B5-42E8-9B1C-F8CAFBB89D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4EA31E-E6B5-42E8-9B1C-F8CAFBB89D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4EA31E-E6B5-42E8-9B1C-F8CAFBB89D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4EA31E-E6B5-42E8-9B1C-F8CAFBB89D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D603C053-68DE-4B25-A551-600E2EEDC982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D603C053-68DE-4B25-A551-600E2EEDC982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D603C053-68DE-4B25-A551-600E2EEDC982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D603C053-68DE-4B25-A551-600E2EEDC982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2253C806-6AD9-4FC1-AEA5-4F69ABA661B0}
+	EndGlobalSection
+EndGlobal

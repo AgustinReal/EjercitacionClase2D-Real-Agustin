@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\bin\Debug\net5.0\Monoplaza.deps.json
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\bin\Debug\net5.0\Monoplaza.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\bin\Debug\net5.0\ref\Monoplaza.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\bin\Debug\net5.0\Monoplaza.pdb
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\obj\Debug\net5.0\Monoplaza.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\obj\Debug\net5.0\Monoplaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\obj\Debug\net5.0\Monoplaza.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\obj\Debug\net5.0\Monoplaza.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\obj\Debug\net5.0\Monoplaza.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\obj\Debug\net5.0\Monoplaza.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\obj\Debug\net5.0\ref\Monoplaza.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\6-Colecciones\C02\Monoplaza\obj\Debug\net5.0\Monoplaza.pdb

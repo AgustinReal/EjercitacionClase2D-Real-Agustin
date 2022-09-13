@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\bin\Debug\net5.0\Comercio.deps.json
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\bin\Debug\net5.0\Comercio.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\bin\Debug\net5.0\ref\Comercio.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\bin\Debug\net5.0\Comercio.pdb
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\obj\Debug\net5.0\Comercio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\obj\Debug\net5.0\Comercio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\obj\Debug\net5.0\Comercio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\obj\Debug\net5.0\Comercio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\obj\Debug\net5.0\Comercio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\obj\Debug\net5.0\Comercio.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\obj\Debug\net5.0\ref\Comercio.dll
+C:\Users\Usuario\Desktop\Laboratorio 2\7-Encapsulamiento\I01\Comercio\obj\Debug\net5.0\Comercio.pdb

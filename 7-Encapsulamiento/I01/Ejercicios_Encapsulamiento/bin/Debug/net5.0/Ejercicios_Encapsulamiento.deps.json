@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicios_Encapsulamiento/1.0.0": {
+        "dependencies": {
+          "Comercio": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicios_Encapsulamiento.dll": {}
+        }
+      },
+      "Comercio/1.0.0": {
+        "runtime": {
+          "Comercio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios_Encapsulamiento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Comercio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
